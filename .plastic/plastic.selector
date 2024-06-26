@@ -1,0 +1,4 @@
+repository "plat@JohnKonstantin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
